@@ -1,0 +1,5 @@
+[http]
+	proxy = http://proxycw3.itcarlow.ie:8080
+[user]
+	name = Mark Shiels
+	email = c00242827@itcarlow.ie
